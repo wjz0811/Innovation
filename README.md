@@ -1,4 +1,4 @@
-#innovation
+#Innovation
 
 By Peace Corps and many amazing contributors
 
@@ -17,4 +17,4 @@ These innovation files are the working files and resources for many activities a
 
 ##About
 
-* Email t4D@peacorps.gov if you'd like to learn more and talk to a human
+* Email t4d@peacorps.gov if you'd like to learn more and talk to a human
