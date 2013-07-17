@@ -6,7 +6,7 @@
 * [Additional Press for BantuBabel](http://bongohive.co.zm/blog/bantu-babel-african-language-translation-app-now-available-on-google-play/)
 
 ####Peace Corps Publications
-* [PC Pubs - Github](https://github.com/PeaceCorps/PeaceCorps)
+* [PC Pubs - Github](https://github.com/wjz0811/PeaceCorps)
 
 ####Tro-Tron
 * Bush taxi scheduling system using SMS
@@ -30,7 +30,10 @@ Mobile Version of our Website
 Ability to SMS to a Google Spreadsheet
 
 ####RealTrack
+* [RealTrack - Github](https://github.com/josmas/peacecorps_challenge_rhok13)
 
+####Malaria Med App (Reminderapp)
+* [Reminderapp - Github](https://github.com/wjz0811/Reminderapp)
 
 ####MatchMap
 New Platform for our World Wise Schools Correspondence Matching Program between American teachers and Peace Corps Volunteers in the field. 
